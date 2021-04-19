@@ -1,16 +1,29 @@
-### Hi there 👋
+Hola Mundo! 🍕💻☕
 
-<!--
-**AztFireSpell/AztFireSpell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Futuro Ingeniero en Informatica
 
-Here are some ideas to get you started:
+Autodidacta de la programacion! ✅ Lenguaje estudiado actualmente: Python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes de programacion estudiados:
+* PHP 
+* Java: Jr
+* C/C++
+* React
+* JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&langs_count=5)](https://github.com/aztfirespell/github-readme-stats)
+
+Algunas ideas rapidas sobre mi:
+
+- 🌱 Actualmente estoy aprendiendo python: web scrappyng 🌎
+- 📫 Algo sobre mi y la programacion: Soy muy curioso en como funcionan las cosas, 
+  por ello el saber programacion fue mi ideal y espero hacer de mi pasion mi trabajo
+- 👨‍🎓 Ya en la ronda final para obtener mi Ingenieria En Informatica 💕💖
+
+En desarrollo 📋:
+
+La creacion de mi blog ✏ 📖 y un libro sobre fundamentos de la logica de programacion !
+
+   -- Si no cuestionamos lo que aprendemos, jamas tendremos conocimientos solidos --
+
+![AztFireSpell's GitHub stats](https://github-readme-stats.vercel.app/api?username=aztfirespell&theme=vue&show_icons=true)
