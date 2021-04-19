@@ -11,7 +11,7 @@ Lenguajes de programacion estudiados:
 * React
 * JavaScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&langs_count=5)](https://github.com/aztfirespell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&layout=compact)](https://github.com/aztfirespell/github-readme-stats)
 
 Algunas ideas rapidas sobre mi:
 
