@@ -4,6 +4,9 @@ Futuro Ingeniero en Informatica
 
 Autodidacta de la programacion! ✅ Lenguaje estudiado actualmente: Python 🐍
 
+Certificaciones! 
+- Microsoft Azure AZ-900 🐱‍👤☁
+
 Lenguajes de programacion estudiados:
 * PHP 
 * Java: Jr
