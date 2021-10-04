@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/46578970/135928647-b4ffc8d7-7840-4f89-9722-7a3e215ad7d3.png
+<img src=https://user-images.githubusercontent.com/46578970/135928647-b4ffc8d7-7840-4f89-9722-7a3e215ad7d3.png alt="profile_banner_aztfirespell">
 
 Hola Mundo! 🍕💻☕
 
