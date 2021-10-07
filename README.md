@@ -1,10 +1,10 @@
 <img src=https://user-images.githubusercontent.com/46578970/135928647-b4ffc8d7-7840-4f89-9722-7a3e215ad7d3.png alt="profile_banner_aztfirespell">
 
-<h1>Hola Mundo! 🍕💻☕</h1>
+<h1 align="center">Hola Mundo! 🍕💻☕ Soy Alonso! Futuro Ingeniero en Informatica</h1>
 
-Futuro Ingeniero en Informatica
+✅ Lenguaje estudiado actualmente: Python 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Autodidacta de la programacion! ✅ Lenguaje estudiado actualmente: Python 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Sobre mis estudios
 
 Certificaciones! 
 - Microsoft Azure AZ-900 🐱‍👤☁ ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -12,10 +12,10 @@ Certificaciones!
 Expecializaciones!
 - Google UX Design en progreso! ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-🚀👨‍🚀 Tecnologias aprendidas/utilizadas:
+## 🚀👨‍🚀 Tecnologias aprendidas/utilizadas:
 
 ## Maquetacion!
-✏ Lenguajes:
+Lenguajes:
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 Herramientas:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -28,8 +28,6 @@ Herramientas:
 
 - TOP: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&layout=compact)](https://github.com/aztfirespell/github-readme-stats)
-
 Algunas ideas rapidas sobre mi:
 
 - 🌱 Actualmente estoy aprendiendo python: web scrappyng 🌎
@@ -39,8 +37,12 @@ Algunas ideas rapidas sobre mi:
 
 En desarrollo 📋:
 
-La creacion de mi blog ✏ 📖 y un libro sobre fundamentos de la logica de programacion !
+La creacion de mi sitio web! Aunque estara destinado para pruebas y practicas principalmente 👀 incluso con videos en mi youtube ![YouTube](https://img.shields.io/badge/alongamecrafter-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-   -- Si no cuestionamos lo que aprendemos, jamas tendremos conocimientos solidos --
 
+
+## Mis estadisticas!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&langs_count=8)](https://github.com/aztfirespell/github-readme-stats)
 ![AztFireSpell's GitHub stats](https://github-readme-stats.vercel.app/api?username=aztfirespell&theme=vue&show_icons=true)
+
+
