@@ -1,27 +1,32 @@
 <img src=https://user-images.githubusercontent.com/46578970/135928647-b4ffc8d7-7840-4f89-9722-7a3e215ad7d3.png alt="profile_banner_aztfirespell">
 
-Hola Mundo! 🍕💻☕
+<h1>Hola Mundo! 🍕💻☕</h1>
 
 Futuro Ingeniero en Informatica
 
-Autodidacta de la programacion! ✅ Lenguaje estudiado actualmente: Python 🐍
+Autodidacta de la programacion! ✅ Lenguaje estudiado actualmente: Python 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Certificaciones! 
-- Microsoft Azure AZ-900 🐱‍👤☁
+- Microsoft Azure AZ-900 🐱‍👤☁ ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 Expecializaciones!
-- Google UX Design en progreso!
+- Google UX Design en progreso! ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 🚀👨‍🚀 Tecnologias aprendidas/utilizadas:
 
-Maquetacion!
+## Maquetacion!
+✏ Lenguajes:
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+Herramientas:
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+## Back-End!
 
-Back-End!
+<img alt="CSS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<img alt="CSS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+## Editores Favoritos 
+
+- TOP: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aztfirespell&layout=compact)](https://github.com/aztfirespell/github-readme-stats)
 
